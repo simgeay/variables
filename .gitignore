@@ -1,2 +1,10 @@
 # Project exclude paths
 /out/
+/.idea/description.html
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/project-template.xml
+/variables.iml
+/.idea/workspace.xml
+/.idea/vcs.xml
